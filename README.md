@@ -127,4 +127,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 -> POST            Creates a new resource.
 -> GET             Retrieves a resource.
 -> PUT             Updates an existing resource.
--> DELETE          Deletes a resource.
+-> DELETE          Deletes a resource
